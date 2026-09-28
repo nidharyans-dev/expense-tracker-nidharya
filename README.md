@@ -108,6 +108,7 @@ The interface is designed to work across:
 
 ## Author
 
-Nidharya N S
+**Nidharya N S**
+
 B.Tech Computer Science and Engineering
 
